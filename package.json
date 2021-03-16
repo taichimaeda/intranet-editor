@@ -1,0 +1,19 @@
+{
+  "name": "intranet-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/js/components/App.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/preset-react": "^7.12.13",
+    "laravel-mix": "^6.0.13",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "resolve-url-loader": "^3.1.2",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1"
+  }
+}

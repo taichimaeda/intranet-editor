@@ -1,0 +1,13 @@
+{
+    "/js/content.js": "/js/content.js",
+    "/js/background.js": "/js/background.js",
+    "/css/content.css": "/css/content.css",
+    "/html/popup.html": "/html/popup.html",
+    "/vendor/normalize.css": "/vendor/normalize.css",
+    "/vendor/skeleton.css": "/vendor/skeleton.css",
+    "/img/icon16.png": "/img/icon16.png",
+    "/img/icon32.png": "/img/icon32.png",
+    "/img/icon48.png": "/img/icon48.png",
+    "/img/icon128.png": "/img/icon128.png",
+    "/manifest.json": "/manifest.json"
+}
